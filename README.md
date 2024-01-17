@@ -30,5 +30,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://josselfdev.surge.sh)
+- Website [Josself](https://josselfdev.surge.sh)
 - GitHub [@Josself](https://github.com/your-Josself)
